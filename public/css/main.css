@@ -1,0 +1,23 @@
+
+
+/* ------- Import Fonts ----- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap');
+
+
+/* ------- Globals Sytles ----- */
+*{
+    font-family: 'Poppins';
+}
+
+/* ------- NAVBAR ----- */
+.navbar .nav-item .nav-link:hover{
+    font-weight: bold;
+}
+/* ------- END NAVBAR ----- */
+
+
+
+
+
+
+
